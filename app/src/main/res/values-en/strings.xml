@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConstraintLayout Example</string>
+    <string name="book_name">Models of Muslim Scientists Biographies</string>
+    <string name="author_name">Rabee Abdelraoof Alzwawy</string>
+    <string name="buy">Buy</string>
+    <string name="borrow">Borrow</string>
+    <string name="biography">Biography</string>
+    <string name="reviews">Reviews</string>
+    <string name="about">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+</resources>
